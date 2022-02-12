@@ -14,7 +14,7 @@ Telegram : t.me/jiasswee
 Phone(可能不会接，建议发短信 :+1 470 601 0406  
 QQ:可以去telegram上问我要哦，嘿嘿嘿（｡ò ∀ ó｡）  
 
-## 我运营的一些项目 ##
+## 我参与运营的一些项目 ##
 #### Freebaipiao ####
 https://github.com/freebaipiao  
 https://freebaipiao.eu.org  
